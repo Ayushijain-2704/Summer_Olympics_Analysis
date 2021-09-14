@@ -6,8 +6,8 @@ Following code has answered these question on summer olympics :
 
 •	In how many cities Summer Olympics is held so far ?
 
-•	Which sport is having most number of gold medals so far ? (top 5
-)
+•	Which sport is having most number of gold medals so far ? (top 5)
+
 •	Which sport is having most number of medals so far ? (top 5)
 
 •	Which player has won most number of medals ?(Top 5)
